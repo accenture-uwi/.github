@@ -8,7 +8,9 @@ We will unlock new possibilities for AI and create a more connected, secure and 
 | Universal                       | Wallet      | Infrastructure |
 | ------------------------------- | ----------- | ----------- |
 | Brings together identity, money and objects across the physical and digital worlds. | Holds users’ assets and information, providing ownership and agency to control what to share, with whom, and for how long. ​ | Provides the tools to create, manage, store and exchange with trust on an interoperable, open standard and modular platform. |
-<center><img src="https://www.universalwalletinfra.com/wp-content/uploads/2024/08/orange-slider-v4.png" alt="" style="clip: rect(0px, 610px, 552.84375px, 0px);"></center>
+
+![Today](img/orange-slider-v4.png)
+![Tomorrow](img/slider-image-blue-v3.png)
 
 ## Putting the User at the Center of Experiences​
 Creating seamless experiences across our digital lives by
